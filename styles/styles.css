@@ -1,0 +1,68 @@
+ul, ol{
+    list-style: none;
+    margin-top: 18.8px;
+}
+li{
+    margin-top: 7.2px;
+}
+a{
+    text-decoration: none;
+}
+.navbar-link {
+	font-size: 22px;
+    color: #3D58A6;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+header{
+    margin-top: 30px;
+}
+body{
+    margin-left: 30px;
+}
+.photos{
+    margin-top: 30px;
+    margin-left: 16px;
+}
+.hari{
+    margin-left: 55px;
+}
+
+/* start index2 */
+.date{
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    margin-top: 36px;
+    margin-bottom: 7px;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+.mDate{
+    font-size: 22px;
+    color: #3D58A6;
+}
+h5{
+    margin-top: 18.5px;
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.image1, .image2{
+    margin-top: 16.5px;
+}
+.text1{
+    margin-top: 27.5px;
+}
+.text2, .text3{
+    margin-top: 10px;
+}
+p{
+    font-family: "BPG Ingiri Arial", sans-serif;
+}
+/* starts 29 may */
+
+.may{
+    margin-top: 38.5px;
+}
